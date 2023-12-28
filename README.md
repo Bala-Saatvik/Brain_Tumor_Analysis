@@ -22,6 +22,18 @@ Statistical measures such as mean, standard deviation, minimum, maximum, and qua
 ## Visualization Techniques
 Histograms, box plots, scatter plots, and heatmaps were generated to visualize image intensity distributions, tumor size distributions, and correlations.
 
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/9b539999-1c52-40ed-ac55-be4b7676ccbe)
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/5e284fa7-07e2-44ee-bcc0-85f7412eaba7)
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/cd6ae0c2-1fb6-489c-a081-c029fdf97069)
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/1f928d24-6bc3-4243-8a76-37fc38334adc)
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/939166a9-e5d6-4cb3-b3e0-34614e2648e3)
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/fce74181-a1ef-41cd-8718-764a188c509d)
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/8bef938a-6c74-4f77-a1f0-a3a55bd9d717)
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/55359931-d1ac-4d0f-9532-d584fb04aaa6)
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/b43fca11-083c-416c-b21c-2069201aaf23)
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/18b91fec-3aff-4cbd-bdd8-bf7d9b02d5bb)
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/90452578-647e-4d9e-a907-429dbcc7a46f)
+
 ## Correlation Analysis
 Correlation coefficients and matrices were computed to identify potential associations and dependencies between variables.
 
@@ -45,4 +57,8 @@ Results and performance discussion of the UNet model for brain tumor prediction.
 
 ## Power BI Dashboard
 A Power BI dashboard was created for interactive exploration and analysis of the dataset.
+
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/d1711e3a-8862-4071-ac66-9973d46442a2)
+![image](https://github.com/Bala-Saatvik/Brain_Tumor_Analysis/assets/94885375/2013aeab-ba65-4f0c-8c81-8060ceb699da)
+
 
